@@ -22,9 +22,6 @@ Site baseado no game online **Countryle**, desenvolvido com **HTML, CSS e JavaSc
 ### 🔹 [TOOT and OTTO](https://github.com/JoaoPedropb2005/TOOTandOTTO)
 Recriação do jogo **TOOT and OTTO**, com **HTML, CSS e JavaScript**.  
 
-### 🔹 [App-DataScience](https://github.com/JoaoPedropb2005/App-DataScience)
-Projetos de **Ciência de Dados e Machine Learning** desenvolvidos durante a graduação.  
-
 ### 🔹 [OpenCV](https://github.com/JoaoPedropb2005/Opencv)
 Testes e implementações práticas com a biblioteca **OpenCV em Python**.  
 
