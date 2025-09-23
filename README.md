@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João Pedro  
+# 👋 Olá, eu sou João Pedro  
 
 🎓 Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**  
 🔬 **Iniciação Científica em IA e Visão Computacional**  
