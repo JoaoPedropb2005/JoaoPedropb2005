@@ -38,7 +38,7 @@ Coleções de exercícios e práticas de algoritmos nas linguagens **C, Python e
 ---
 
 ## 📫 Conecte-se comigo
-- 💼 [LinkedIn]([https://www.linkedin.com/in/joao-pedro](https://www.linkedin.com/in/jo%C3%A3o-pedro-45991529b/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-45991529b/)  
 - 📧 **jppb2005normal@gmail.com**  
 
 ---
