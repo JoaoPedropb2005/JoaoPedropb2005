@@ -1,221 +1,94 @@
 # 👋 Olá, eu sou João Pedro
 
-🎓 Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**
-💻 Interessado em **Engenharia de Software, Desenvolvimento Mobile e Inteligência Artificial**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (TADS)** no **IFPE Recife**  
+🎯 Foco Profissional: **Desenvolvimento Backend (Java & Python)**  
+📍 Recife e Região, PE - Brasil
 
-Tenho experiência com **Java, C/C++, Python e desenvolvimento Web/Mobile**, além de projetos envolvendo **Visão Computacional e Machine Learning**.
-
----
-
-# 🚀 Tecnologias
-
-### Linguagens
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+Tenho foco na construção de APIs RESTful, lógica de negócios e arquitetura de software utilizando Java e Python. Também possuo vivência em desenvolvimento Web/Mobile e experimentos em Visão Computacional e IA.
 
 ---
 
-### Inteligência Artificial
+### 🛠️ Tecnologias & Ferramentas
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+#### 🎯 Principal (Backend & Bancos de Dados)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Ferramentas utilizadas:
+#### 💻 Linguagens Suporte & Fundamentos
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* YOLO
-* Detectron2
-* CNNs
-* Processamento de imagens
-
----
-
-### Desenvolvimento Web
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
----
-
-### Backend
-
-* Java (Servlets / JSP / JDBC)
-* Node.js
-* APIs REST
-
----
-
-### Mobile
-
-* Android
-* Java / Kotlin
-* Google Maps API
-
----
-
-### Banco de Dados
-
-* MySQL
-* SQLite
-
----
-
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedropb2005&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedropb2005&layout=compact&langs_count=8&theme=dracula"/>
-
-</div>
-
----
-
-# 🔥 Streak de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoaoPedropb2005&theme=dracula&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Conquistas no GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoaoPedropb2005&theme=dracula&row=1&column=6"/>
-
-</div>
+#### 🤖 IA, Visão Computacional & Outros
+- **IA & Dados:** OpenCV, TensorFlow, YOLO, Detectron2, CNNs, Pandas
+- **Web & Mobile:** HTML5, CSS3, Android (Java/Kotlin), Google Maps API
 
 ---
 
 # 🌟 Projetos em Destaque
 
-## 🐾 Find'Em
+### 🏥 Sistema Clínica (Backend Web)
+Sistema web voltado para gerenciamento de consultas e pacientes.
+- **Tecnologias:** Java, Servlets, JSP, MySQL, Arquitetura MVC
+- **Destaques:** CRUD completo, controle de rotas HTTP e integração com banco relacional.
+- 🔗 [Acessar Repositório](https://github.com/JoaoPedropb2005/SistemaClinica)
 
-Aplicativo mobile para **localização de animais perdidos** utilizando geolocalização.
+### 🐾 Find'Em (Mobile & Geolocalização)
+Aplicativo mobile para auxílio na localização de animais perdidos.
+- **Tecnologias:** Android, Java, Google Maps API
+- **Destaques:** Consumo de APIs de mapas e geolocalização em tempo real.
+- 🔗 [Acessar Repositório](https://github.com/JoaoPedropb2005/Find-Em)
 
-🔗 https://github.com/JoaoPedropb2005/Find-Em
+### 📊 Ciência de Dados & Colaborações Acadêmicas
+Repositórios focados na análise de dados, soluções computacionais e colaborações do IFPE.
+- 🔗 [Ciência de Dados](https://github.com/JoaoPedropb2005/cienciadeDados_2026.2) | [Gestão de Configuração (GCMS)](https://github.com/JoaoPedropb2005/GCMS-2025-2)
 
-Tecnologias:
-
-* Android
-* Java
-* Google Maps API
-
-Status: Em reestruturação.
-
----
-
-## 🏥 Sistema Clínica
-
-Sistema web para **gerenciamento de pacientes e consultas médicas**.
-
-🔗
-https://github.com/JoaoPedropb2005/SistemaClinica
-
-Tecnologias:
-
-* Java
-* Servlets
-* JSP
-* MySQL
-
-Conceitos aplicados:
-
-* Arquitetura MVC
-* CRUD completo
-* Integração com banco de dados
+### 🌎 Countryle & Jogos Web
+Projetos e jogos interativos desenvolvidos para praticar lógica e manipulação do DOM.
+- 🔗 [Countryle](https://github.com/JoaoPedropb2005/Countryle) | [TOOT and OTTO](https://github.com/JoaoPedropb2005/TOOTandOTTO)
 
 ---
 
-## 🌎 Countryle
+# 📚 Laboratório de Algoritmos & Estudos
 
-Jogo web inspirado no **Wordle**, focado em adivinhar países.
+Repositórios dedicados ao aprimoramento contínuo em lógica, algoritmos e estruturas de dados:
 
-🔗
-https://github.com/JoaoPedropb2005/Countryle
-
-Tecnologias:
-
-* HTML
-* CSS
-* JavaScript
+- 📁 `Java_estudos` — Aprofundamento em Orientação a Objetos e Recursos Avançados de Java.
+- 📁 `Codigos-Python` — Desafios, automações e manipulação de dados.
+- 📁 `Codigos-C` / `Codigos-CPP` — Estruturas de dados e resolução de problemas em baixo nível.
+- 📁 `Opencv` — Testes e algoritmos de processamento de imagem.
 
 ---
 
-## 🎮 TOOT and OTTO
+# 📊 Estatísticas
 
-Implementação web do jogo **TOOT and OTTO**.
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedropb2005&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedropb2005&layout=compact&langs_count=6&theme=dracula"/>
+</div>
 
-🔗
-https://github.com/JoaoPedropb2005/TOOTandOTTO
+<br/>
 
-Tecnologias:
-
-* HTML
-* CSS
-* JavaScript
-
----
-
-# 💻 Outros Projetos
-
-### NodeJS CRUD
-
-Projeto simples de CRUD utilizando Node.js.
-
-🔗
-https://github.com/JoaoPedropb2005/Nodejs_CRUD
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JoaoPedropb2005&theme=dracula&hide_border=true"/>
+</div>
 
 ---
 
-### Estudos em OpenCV
+# 🌱 Foco Atual de Desenvolvimento
 
-Experimentos e estudos iniciais com visão computacional.
-
-🔗
-https://github.com/JoaoPedropb2005/Opencv
+- **Backend:** Spring Boot, APIs RESTful e Boas Práticas (Clean Code).
+- **Fundamentos:** Padrões de Projeto (Design Patterns) e Estruturas de Dados Avançadas.
 
 ---
 
-# 📚 Repositórios de Estudo
+# 📫 Vamos nos conectar?
 
-Esses repositórios funcionam como **laboratório pessoal de programação**.
-
-* Codigos-C → exercícios e desafios de programação
-* Codigos-CPP → problemas de algoritmos em C++
-* Codigos-Python → desafios e experimentos em Python
-* Java_estudos → revisão e estudo aprofundado de Java
+- 💼 **LinkedIn:** [in/joaopedropb2005](https://www.linkedin.com/in/joaopedropb2005/)
+- 📧 **E-mail:** [jpedropb2005@gmail.com](mailto:jpedropb2005@gmail.com)
 
 ---
-
-# 🌱 Atualmente estudando
-
-* Estruturas de Dados
-* Arquitetura de Software
-* Padrões de Projeto
-* Desenvolvimento Mobile
-* Visão Computacional
-
----
-
-# 📫 Contato
-
-💼 LinkedIn
-https://www.linkedin.com/in/jo%C3%A3o-pedro-45991529b/
-
-📧 Email
-[jpedropb2005@gmail.com](mailto:jpedropb2005@gmail.com)
-
----
-
-⭐ Se algum projeto te ajudou ou foi interessante, considere deixar uma estrela!
+⭐ *Fique à vontade para explorar os repositórios e deixar uma estrela nos projetos que achar interessantes!*
